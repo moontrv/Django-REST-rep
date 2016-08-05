@@ -1,8 +1,1 @@
-http://localhost:8000/api/v2/courses/
-username: testuser
-password: adminadmin
-token: 	93c5ade9df70e3d3b5610ad9d5f417353540a31e
-
-username: admin
-password: admin
-token: 		90722a631e491bc45298a2db66726241d49aa685
+A course management web using REST framework of Django.
